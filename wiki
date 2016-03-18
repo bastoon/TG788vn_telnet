@@ -1,0 +1,8 @@
+== Requirement ==
+
+Need 'expect' library
+
+ sudo apt-get install expect
+
+== Usage ==
+ ./script_run_wrapper.expect connection_stats >> connection.stats

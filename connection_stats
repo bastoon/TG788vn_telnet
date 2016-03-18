@@ -1,0 +1,6 @@
+puts ""
+puts "# Connection statistics "
+puts ""
+
+exec_cmd ":connection stats"
+
